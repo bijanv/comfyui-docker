@@ -11,6 +11,7 @@ NODES=(
     "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes"
     "https://github.com/BennyKok/comfyui-deploy"
     "https://github.com/Layer-norm/comfyui-lama-remover"
+    "https://github.com/WASasquatch/was-node-suite-comfyui"
 )
 
 CHECKPOINT_MODELS=(
@@ -26,7 +27,7 @@ CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/293240" # Realism Engine SDXL
     "https://civitai.com/api/download/models/320950" # HelloWorld SDXL
     "https://civitai.com/api/download/models/294995" # Realities Edge XL Turbo
-    "https://civitai.com/api/download/models/251662" # Dreamshaper XL Turbo
+    "https://civitai.com/api/download/models/341981" # Dreamshaper XL Turbo
 )
 
 LORA_MODELS=(
